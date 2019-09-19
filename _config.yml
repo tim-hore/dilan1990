@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: id-ID
-title: Seluk Beluk
+title: Pejuang Streaming Bola Indonesia
 # email:
 description: Pejuang streaming bola Indonesia (PSBI).
 # twitter_username: username
