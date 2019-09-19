@@ -1,0 +1,7 @@
+main:
+  - title: "Kategori"
+    url: /kategori/
+  - title: "Penandaan"
+    url: /tanda/
+  - title: "Tentang"
+    url: /about/
