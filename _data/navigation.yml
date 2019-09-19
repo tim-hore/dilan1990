@@ -1,7 +1,25 @@
 main:
-  - title: "Kategori"
-    url: /kategori/
-  - title: "Penandaan"
-    url: /tanda/
-  - title: "Tentang"
-    url: /about/
+  - title: "Channel 1"
+    url: /channel-01
+  - title: "Channel 2"
+    url: /channel-02
+  - title: "Channel 3"
+    url: /channel-03/
+  - title: "Channel 4"
+    url: /channel-04
+  - title: "Channel 5"
+    url: /channel-05
+  - title: "Channel 6"
+    url: /channel-06
+  - title: "Channel 7"
+    url: /channel-07
+  - title: "Channel 8"
+    url: /channel-08
+  - title: "Channel 9"
+    url: /channel-09
+  - title: "Channel 10"
+    url: /channel-10
+  - title: "Channel 11"
+    url: /channel-11
+  - title: "Channel 12"
+    url: /channel-12
