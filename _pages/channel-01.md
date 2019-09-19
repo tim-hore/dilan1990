@@ -1,10 +1,13 @@
 ---
-permalink: /channel-1
+permalink: /formula-one
 title: "Manchester vs Astana K.O 02.00 WIB - UEL"
 header:
  video:
   id: ch-1
   provider: istimiwir
 redirect_from:
- - /uel/manchester-vs-astana-2/
+ - /formula1
+ - /f1-practice
+ - /f1-race
+ - /f1-qualification
 ---
