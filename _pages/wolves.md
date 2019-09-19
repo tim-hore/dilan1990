@@ -5,8 +5,7 @@ header:
  video:
   id: ch-10
   provider: istimiwir
-categories: [UEL]
-tags: [cfr cluj, lazio, uefa europa league, liga eropa]
 redirect_from:
  - /eul/wolves-vs-braga/
+ - /uel/wolves-vs-braga/
 ---
