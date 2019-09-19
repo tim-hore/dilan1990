@@ -6,5 +6,5 @@ header:
   id: ch-6
   provider: istimiwir
 redirect_from:
- - /uel/manchester-vs-astana/
+ - /uel/manchester-vs-astana-2/
 ---
