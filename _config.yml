@@ -1,0 +1,143 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+locale: id-ID
+title: Seluk Beluk
+# email:
+description: Pejuang streaming bola Indonesia (PSBI).
+# twitter_username: username
+# github_username: username
+minimal_mistakes_skin: default
+# Social
+social:
+ type: organisation
+ name: PSBI
+ links:
+  - mukidi
+facebook:
+ app_id: 720457594754641
+ publisher: https://www.facebook.com/PSBI
+# Images
+teaser: https://dummyimage.com/320x4:3/00/f.gif&text=PSBI
+og_image: https://dummyimage.com/1200x600/00/f.gif&text=PSBI
+logo: https://dummyimage.com/88x88/00/f.gif&text=PSBI
+#Search
+search: true
+search_provider: google
+google:
+  search_engine_id: "012409504556434517711:oxyvbv1u6ko"
+  instant_search: true
+comments:
+  provider: utterances
+  utterances:
+   theme: "github-light"
+   issue_term: "pathname"
+repository: "tim-hore/liveistimiwir"
+# SEO Related
+google_site_verification: "KYQFq-wZMFvxDMR5G5rak58D-IwrgM8B_CuGS0To5AU"
+bing_site_verification: "DA3D4C0368D7AE1105218F7F5B5BD6AC"
+alexa_site_verification: "9vuxp7uDTuDQssajccQrFy1UnTQ"
+naver_site_verification: "b9b1f6708a13353f75e5b5a50e744f76de6f9303"
+# Analytics
+analytics:
+  provider               : "google-universal"
+  google:
+    tracking_id          : "UA-43841292-2"
+
+# Build settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.16.6"
+# Outputting
+permalink: /:categories/:title/
+paginate: 10 # amount of posts to show
+paginate_path: /page:num/
+timezone: Asia/Jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+exclude:
+  - _draft
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - _draft
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "PSBI"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Pejuang Streamin Bola Gratisan Indonesia"
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/PSBI"
+footer:
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://instagram.com/PSBI"
+
+sass:
+  style: compressed
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+category_archive:
+  type: liquid
+  path: /kategori/
+tag_archive:
+  type: liquid
+  path: /tanda/
