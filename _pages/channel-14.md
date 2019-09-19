@@ -1,6 +1,6 @@
 ---
 permalink: /balapan/formula-1/
-title: "Formula One - CH 14"
+title: "Formula 1: Singapore 2019"
 header:
  video:
   id: ch-14
