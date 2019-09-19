@@ -1,4 +1,5 @@
 ---
+permalink: /channel-06
 title: "Manchester vs Astana K.O 02.00 WIB - UEL"
 header:
  video:
