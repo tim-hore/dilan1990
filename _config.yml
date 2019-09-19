@@ -23,12 +23,12 @@ minimal_mistakes_skin: default
 # Social
 social:
  type: organisation
- name: PSBI
+ name: Pejuang Streaming
  links:
-  - mukidi
+  - https://www.facebook.com/PejuangStreaming
 facebook:
  app_id: 720457594754641
- publisher: https://www.facebook.com/PSBI
+ publisher: https://www.facebook.com/PejuangStreaming
 # Images
 teaser: https://dummyimage.com/320x4:3/00/f.gif&text=PSBI
 og_image: https://dummyimage.com/1200x600/00/f.gif&text=PSBI
@@ -96,16 +96,16 @@ plugins:
 author:
   name   : "PSBI"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Pejuang Streamin Bola Gratisan Indonesia"
+  bio    : "Pejuang Streaming Bola Gratisan Indonesia"
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/PSBI"
+      url: "https://www.facebook.com/PejuangStreaming
 footer:
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://instagram.com/PSBI"
+      url: "https://fb.me/PejuangStreaming"
 
 sass:
   style: compressed
