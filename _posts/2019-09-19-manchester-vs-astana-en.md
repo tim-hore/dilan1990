@@ -7,4 +7,7 @@ header:
 categories: [UEL]
 tags: [manchester united, astana, uefa europa league, liga eropa]
 ---
+
+{% include figure image_path="https://dummyimage.com/800x450/0000ff/f.gif&text={{ page.categories }}" caption="{{ page.title }}" %}
+
 [Channel 6 **EN**](/mancheter-vs-astana-es/){:.btn .btn--large .btn--info}
