@@ -1,11 +1,9 @@
 ---
-title: "Qarabag vs Sevilla K.O 23.55 WIB - UEL"
+title: "Manchester vs Astana K.O 02.00 WIB - UEL"
 header:
  video:
   id: ch-6
   provider: istimiwir
-categories: [UEL]
-tags: [qarabag, sevilla, uefa europa league, liga eropa]
 redirect_from:
- - /uel/qarabag-vs-sevilla/
+ - /uel/manchester-vs-astana/
 ---
