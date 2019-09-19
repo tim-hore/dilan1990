@@ -6,6 +6,8 @@ header:
   provider: istimiwir
 categories: [UEL]
 tags: [eintrach, arsenal, uefa europa league, liga eropa]
+redirect_from:
+ - /uel/eintracht-vs-arsenal-es/
 ---
 
-[Channel 2 **EN**](/eintracht-vs-arsenal-en/){:.btn .btn--large .btn--info .align-center}
+[Channel 2 **EN**](/uel/eintracht-vs-arsenal-en/){:.btn .btn--large .btn--info .align-center}
