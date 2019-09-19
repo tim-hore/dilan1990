@@ -1,4 +1,5 @@
 ---
+permalink: /channel-10
 title: "CFS Cluj vs Lazio K.O 23.55 WIB - UEL"
 header:
  video:
