@@ -1,4 +1,5 @@
 ---
+permalink: /channel-7
 title: "Getafe vs Trabzonspor K.O 23.55 WIB - UEL"
 header:
  video:
