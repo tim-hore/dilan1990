@@ -68,16 +68,13 @@ timezone: Asia/Jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_
 include:
   - _pages
 
-exclude:
-  - _draft
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
+exclude:
+   - Gemfile
 #   - Gemfile.lock
-#   - _draft
+   - _draft
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
@@ -94,13 +91,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "PSBI"
+  name   : "Pejuang Streaming"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Pejuang Streaming Bola Gratisan Indonesia"
+  bio    : "Pejuang Streaming Gratisan Indonesia"
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/PejuangStreaming
+      url: "https://www.facebook.com/PejuangStreaming"
 footer:
   links:
     - label: "Facebook"
@@ -118,7 +115,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
