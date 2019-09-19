@@ -1,4 +1,5 @@
 ---
+permalink: /channel-11
 title: "Man United vs Astana K.O 02.00 WIB - UEL"
 header:
  video:
