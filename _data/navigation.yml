@@ -1,8 +1,8 @@
 main:
-#  - title: "Channel 1"
-#    url: /channel-1
-#  - title: "Channel 2"
-#    url: /channel-2
+  - title: "Channel 1"
+    url: /channel-1
+  - title: "Channel 2"
+    url: /channel-2
 #  - title: "Channel 3"
 #    url: /channel-3/
 #  - title: "Channel 4"
