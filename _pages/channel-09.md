@@ -1,11 +1,11 @@
 ---
-title: "Eintracht vs Arsenal K.O 23.55 WIB - UEL"
+title: "AS Roma vs Istanbul K.O 02.00 WIB - UEL"
 header:
  video:
   id: ch-9
   provider: istimiwir
 categories: [UEL]
-tags: [eintrach, arsenal, uefa europa league, liga eropa]
+tags: [as roma, istanbul, uefa europa league, liga eropa]
 redirect_from:
- - /uel/eintracht-vs-arsenal/
+ - /uel/roma-vs-istanbul/
 ---
