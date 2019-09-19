@@ -1,6 +1,6 @@
 ---
 permalink: /formula-one
-title: "Channel 1: Formula One"
+title: "Formula 1: Singapore 2019"
 header:
  video:
   id: ch-1
