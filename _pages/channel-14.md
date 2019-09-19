@@ -6,6 +6,6 @@ header:
   id: ch-14
   provider: istimiwir
 redirect_from:
- - /balapan/formula-1/
+ - /formula-1/
  - /channel-14
 ---
