@@ -1,12 +1,12 @@
 ---
 permalink: /channel-7
-title: "Getafe vs Trabzonspor K.O 23.55 WIB - UEL"
+title: "Porto vs Young K.O 02:00 WIB - UEL"
 header:
  video:
   id: ch-7
   provider: istimiwir
 categories: [UEL]
-tags: [getafe, trabzonspor, uefa europa league, liga eropa]
+tags: [porto, young, uefa europa league, liga eropa]
 redirect_from:
- - /uel/getafe-vs-trabzonspor/
+ - /uel/porto-vs-young/
 ---
