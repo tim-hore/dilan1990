@@ -1,8 +1,8 @@
 ---
-title: Formula 1 Singapore Grand Prix 2019
+title: "Formula 1 Singapore Grand Prix 2019"
 header:
- image: https://singaporegp.sg/media/2019/circuit_park_map/2019-Circuit-Map-EN-20190726.jpg
- caption: Singapore Grand Prix Circuit Map
+ image: "https://singaporegp.sg/media/2019/circuit_park_map/2019-Circuit-Map-EN-20190726.jpg"
+ caption: "Singapore Grand Prix Circuit Map"
 ---
 
 |Waktu||Acara|
