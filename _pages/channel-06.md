@@ -7,5 +7,5 @@ header:
 categories: [UEL]
 tags: [qarabag, sevilla, uefa europa league, liga eropa]
 redirect_from:
- - /uel/qarabag-vs-sevilla-es/
+ - /uel/qarabag-vs-sevilla/
 ---
