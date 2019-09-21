@@ -1,5 +1,5 @@
 ---
-permalink: /channel-9
+permalink: /ita-2
 title: "AC Milan vs Inter Milan K.O 01.45 WIB Minggu, 22/09/2019"
 header:
  video:
