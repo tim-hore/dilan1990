@@ -5,9 +5,7 @@ header:
  video:
   id: ch-9
   provider: istimiwir
- og_image: https://gilabola.com/wp-content/uploads/2019/09/Liga-Italia-Juventus-vs-Hellas-Verona-Juventus-Hellas-Verona.jpg
-categories: [UEL]
-tags: [porto, young, uefa europa league, liga eropa]
+ og_image: "https://gilabola.com/wp-content/uploads/2019/09/Liga-Italia-Juventus-vs-Hellas-Verona-Juventus-Hellas-Verona.jpg"
 redirect_from:
 - /ita/juv-ver
 ---
