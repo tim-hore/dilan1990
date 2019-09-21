@@ -1,10 +1,10 @@
 ---
-permalink: /channel-1
-title: "Manchester vs Astana K.O 02.00 WIB - UEL"
+permalink: /epl-3
+title: "Newcastle vs Brighton K.O 02.00 WIB - EPL"
 header:
  video:
-  id: ch-1
+  id: ch-8
   provider: istimiwir
 redirect_from:
- - /uel/manchester-vs-astana/
+ - /new-bri
 ---
