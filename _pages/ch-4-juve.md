@@ -1,10 +1,11 @@
 ---
-permalink: /channel-9
+permalink: /channel-09
 title: "Juventus vs Verona K.O 23.00 WIB Sabtu, 21/09/2019"
 header:
  video:
   id: ch-9
   provider: istimiwir
+ og_image: https://gilabola.com/wp-content/uploads/2019/09/Liga-Italia-Juventus-vs-Hellas-Verona-Juventus-Hellas-Verona.jpg
 categories: [UEL]
 tags: [porto, young, uefa europa league, liga eropa]
 redirect_from:
