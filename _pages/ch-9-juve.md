@@ -1,5 +1,5 @@
 ---
-permalink: /channel-09
+permalink: /ita-1
 title: "Juventus vs Verona K.O 23.00 WIB Sabtu, 21/09/2019"
 header:
  video:
