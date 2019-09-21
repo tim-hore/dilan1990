@@ -1,11 +1,13 @@
 ---
-permalink: /channel-10
-title: "Wolves vs Braga K.O 02.00 WIB - UEL"
+permalink: /channel-9
+title: "AC Milan vs Inter Milan K.O 02.00 WIB Minggu, 22/09/2019"
 header:
  video:
   id: ch-10
   provider: istimiwir
+ image: "https://asset.indosport.com/article/image/290235/inter_milan_vs_ac_milan1-169.jpg"
 redirect_from:
- - /eul/wolves-vs-braga/
- - /uel/wolves-vs-braga/
+ - /ita/mil-int
 ---
+
+AC Milan vs Inter Milan K.O 02.00 WIB Minggu, 22/09/2019"
