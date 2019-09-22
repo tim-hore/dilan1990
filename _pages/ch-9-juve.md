@@ -1,13 +1,11 @@
 ---
-permalink: /ita-1
-title: "Juventus vs Verona K.O 23.00 WIB Sabtu, 21/09/2019"
+permalink: /liv-3
+title: "Chelsea vs Liverpool K.O 23.30 WIB Sabtu, 22/09/2019"
 header:
  video:
-  id: ch-9
+  id: ch-12
   provider: istimiwir
  og_image: "https://gilabola.com/wp-content/uploads/2019/09/Liga-Italia-Juventus-vs-Hellas-Verona-Juventus-Hellas-Verona.jpg"
 redirect_from:
-- /ita/juv-ver
+- /che-liv-3
 ---
-
-Juventus vs Verona K.O 23.00 WIB Sabtu, 21/09/2019
