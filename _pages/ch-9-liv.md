@@ -1,10 +1,9 @@
 ---
-permalink: /epl-1
-title: "Chelsea FC vs Liverpool FC K.O 22:30 WIB"
+permalink: /preston-mancity
+title: "MK Dons vs Liverpool K.O 01:45 WIB Kamis, 26/09/2019"
 header:
  video:
-  id: ch-9
+  id: ch-3
   provider: istimiwir
-redirect_from:
- - /che-liv-2
 ---
+MK Dons vs Liverpool - Carabao Cup - 26 September 2019, kick-off 01.45 WIB Kamis dini hari.
