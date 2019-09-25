@@ -3,6 +3,8 @@ title: "Jadwal dan Streaming 3rd Round Carabao Cup (League Cup) 2019"
 header:
  image: "https://i0.wp.com/res-mola01.koicdn.com/image/0a4f5055-fb19-47ee-a722-ddb443e1a22a/image.jpeg?resize=1200,530"
  caption: "Carabao Cup 2019"
+redirect_from:
+ - /jadwal-formula-1-singapore-2019
 ---
 
 |K.O||Link|
