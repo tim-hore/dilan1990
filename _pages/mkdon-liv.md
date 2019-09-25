@@ -1,5 +1,5 @@
 ---
-permalink: /preston-mancity
+permalink: /mkdons-liverpool
 title: "MK Dons vs Liverpool K.O 01:45 WIB Kamis, 26/09/2019"
 header:
  video:
