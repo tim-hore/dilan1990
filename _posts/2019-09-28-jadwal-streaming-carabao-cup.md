@@ -7,15 +7,15 @@ redirect_from:
  -carabao-cup
 ---
 
-|K.O||Link/Hasil|
-|:---:|---:|:---:|
+|Kick-Off|Football Club|Links/Results|
+|:---|:---:|---:|
+|4rd Round||**29/10/2019**|
+|TBD WIB|Liverpool FC vs Arsenal|TBA|
+|TBD WIB|Chelsea FC vs Manchester United|TBA|
+|TBD WIB|Man. City vs Shouthampton|TBA|
 |3rd Round||**26/09/2019**|
 |01:45 WIB|MK Dons vs Liverpool FC|FT 0-2|
 |01:45 WIB|Chelsea FC vs Grimsby|FT 7-1|
 |02:00 WIB|Manchester Utd. vs Rochdale|FT+P 1-1(5-3)|
-|4rd Round||**26/09/2019**|
-|TBD WIB|Liverpool FC vs Arsenal|TBA|
-|TBD WIB|Chelsea FC vs Manchester United|TBA|
-|TBD WIB|Man. City vs Shouthampton|TBA|
 
 >FT: Final Time, FT+P: Final Time + Penalty, TBD: to be decided, TBA: to be added
