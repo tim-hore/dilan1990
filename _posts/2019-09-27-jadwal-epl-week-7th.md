@@ -7,7 +7,7 @@ redirect_from:
  - /epl-7
 ---
 
-|K.O||Link/Hasil|
+|Kick-Off|Football Club|Links/Results|
 |:---:|---:|:---:|
 |Sabtu||**27/09/2019**|
 |18.30 WIB|Sheffield Utd. ⚔️ Liverpool FC|**to be added**|
