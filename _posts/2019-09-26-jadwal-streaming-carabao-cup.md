@@ -10,6 +10,6 @@ redirect_from:
 |K.O||Link/Hasil|
 |:---:|---:|:---:|
 |||**26/09/2019**|
-|01:45 WIB|MK Dons vs Liverpool FC|[stream](https://catetan.istimiwir.host/streaming/m3u8/)|
-|01:45 WIB|Chelsea FC vs Grimsby|[stream](/chelsea-grimsby)|
-|02:00|Manchester Utd. vs Rochdale|[stream](/manu-roch)|
+|01:45 WIB|MK Dons vs Liverpool FC|FT 0-2|
+|01:45 WIB|Chelsea FC vs Grimsby|FT 7-1|
+|02:00 WIB|Manchester Utd. vs Rochdale|FT P 1-1(5-3)|
