@@ -9,4 +9,4 @@ redirect_from:
  - /f-1
 ---
 
-**Singapore Grand Prix 2019**
+**Russian Grand Prix 2019**
