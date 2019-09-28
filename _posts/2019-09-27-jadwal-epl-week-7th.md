@@ -1,5 +1,5 @@
 ---
-title: "Jadwal dan Streaming EPL 2019/2020 Week 7th 2019"
+title: "Jadwal, Streaming dan Hasil EPL 2019/2020 Week 7th 2019"
 header:
  image: "https://www.irishtimes.com/polopoly_fs/1.3486002.1525621747!/image/image.jpg_gen/derivatives/landscape_620/image.jpg"
  caption: "English Premiere League W-7"
@@ -7,6 +7,7 @@ redirect_from:
  - /epl-7
 ---
 **stream** available 5-10 minutes before kick-off.
+{:.notice .notice--info aria-label-hidden="true"}
 
 |Kick-Off|Football Club|Links|Results|
 |:---|:---:|---:|---:|
