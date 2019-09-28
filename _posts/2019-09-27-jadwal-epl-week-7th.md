@@ -15,7 +15,7 @@ redirect_from:
 |21:00 WIB|Aston Villa ⚔️ Burnley|to be added|
 |21.00 WIB|Bournemouth ⚔️ West Ham|to be added|
 |21:00 WIB|Wolves ⚔️ Watford|to be added|
-|21:00 WIB|Tottenham ⚔️ Southampton|[stream](#tott-south){:.btn .btn--warning}|
+|21:00 WIB|Tottenham ⚔️ Southampton|[stream](/tott-south){:.btn .btn--warning}|
 |21.00 WIB|Chelsea ⚔️ Brighton|[stream](#chels-bright){:.btn .btn--disable}|
 |23:30 WIB|Everton ⚔️ Man. City|[stream](#evert-city){:.btn .btn--disable}|
 |Minggu||**28/09/2019**|
