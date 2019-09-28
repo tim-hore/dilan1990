@@ -6,6 +6,7 @@ header:
 redirect_from:
  - /epl-7
 ---
+**stream** available 5-10 minutes before kick-off.
 
 |Kick-Off|Football Club|Links|Results|
 |:---|:---:|---:|
@@ -23,5 +24,6 @@ redirect_from:
 |Senin||**29/09/2019**|
 |02:00 WIB|Arsenal ⚔️ Manchester Utd.|**to be added**|
 
-✓ available 10 minutes before kick-off
+FT: Full Time, FT+P: Full Time + Penalty, TBD: to be decided, TBA: to be added
 {:.notice}
+
