@@ -18,4 +18,5 @@ redirect_from:
 |01:45 WIB|Chelsea FC vs Grimsby|FT 7-1|
 |02:00 WIB|Manchester Utd. vs Rochdale|FT+P 1-1(5-3)|
 
->FT: Final Time, FT+P: Final Time + Penalty, TBD: to be decided, TBA: to be added
+FT: Full Time, FT+P: Full Time + Penalty, TBD: to be decided, TBA: to be added
+{:.notice}
