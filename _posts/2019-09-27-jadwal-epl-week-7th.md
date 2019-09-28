@@ -11,7 +11,7 @@ redirect_from:
 |Kick-Off|Football Club|Links|Results|
 |:---|:---:|---:|---:|
 |Sabtu||**27/09/2019**| |
-|18.30 WIB|Sheffield Utd. ⚔️ Liverpool FC|Full Time|**0-1**|
+|18.30 WIB|Sheffield Utd. ⚔️ Liverpool FC| end |FT **0-1**|
 |21:00 WIB|Crystall Palace ⚔️ Norwich|to be added| |
 |21:00 WIB|Aston Villa ⚔️ Burnley|to be added| |
 |21.00 WIB|Bournemouth ⚔️ West Ham|to be added| |
