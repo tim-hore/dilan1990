@@ -1,7 +1,7 @@
 ---
 permalink: /lei-new
 title: "Leicester vs Newcastle K.O 23.30 WIB 29/09/2019"
-excerpt: "Link live streaming English Premier League (EPL) 
+excerpt: "Link live streaming English Premier League (EPL)"
 code: 10
 ---
 {{ page.excerpt }}. {{ page.title }}**
