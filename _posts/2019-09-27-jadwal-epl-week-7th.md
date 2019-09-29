@@ -16,11 +16,11 @@ _Berikut {{ page.title }}._
 |:---|:---:|---:|---:|
 |Sabtu||**27/09/2019**| |
 |18.30 WIB|Sheffield Utd. ⚔️ Liverpool FC| end |FT **0-1**|
-|21:00 WIB|Crystall Palace ⚔️ Norwich|end|FT **2-0*"|
-|21:00 WIB|Aston Villa ⚔️ Burnley|end|FT **2-2*"|
-|21.00 WIB|Bournemouth ⚔️ West Ham|end|FT **2-2*"|
-|21:00 WIB|Wolves ⚔️ Watford|end|FT **2-0*"|
-|21:00 WIB|Tottenham ⚔️ Southampton|end|FT **2-1*"|
+|21:00 WIB|Crystall Palace ⚔️ Norwich|end|FT **2-0**|
+|21:00 WIB|Aston Villa ⚔️ Burnley|end|FT **2-2**|
+|21.00 WIB|Bournemouth ⚔️ West Ham|end|FT **2-2**|
+|21:00 WIB|Wolves ⚔️ Watford|end|FT **2-0**|
+|21:00 WIB|Tottenham ⚔️ Southampton|end|FT **2-1**|
 |21.00 WIB|Chelsea ⚔️ Brighton|end|FT **2-0**|
 |23:30 WIB|Everton ⚔️ Man. City|end|FT **1-3**|
 |Minggu||**28/09/2019**| |
