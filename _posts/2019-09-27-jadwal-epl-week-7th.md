@@ -26,7 +26,7 @@ _Berikut {{ page.title }}._
 |Minggu||**28/09/2019**| |
 |22:30 WIB|Leicester ⚔️ Newcastle|[stream](/lei-new){:.btn .btn--disable}| |
 |Senin||**29/09/2019**| |
-|02:00 WIB|Arsenal ⚔️ Manchester Utd.||[stream](/mun-ars){:.btn .btn--disable}| |
+|02:00 WIB|Arsenal ⚔️ Manchester Utd.|[stream](/mun-ars){:.btn .btn--disable}| |
 
 Bold: possibly streamed, FT: Full Time, FT+P: Full Time + Penalty, TBD: to be decided, TBA: to be added
 {:.notice}
