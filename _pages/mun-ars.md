@@ -10,7 +10,7 @@ Copy url below:
 _salin tautan berikut:_
 
 ```html
-https://dailysport1.s3-accelerate.amazonaws.com{{ page.code }}/{{ page.code }}.m3u8
+https://dailysport1.s3-accelerate.amazonaws.com/{{ page.code }}/{{ page.code }}.m3u8
 ```
 
 then paste it into the input box at [this page](https://mi.knoacc.org/online-m3u8-player),
