@@ -2,7 +2,7 @@
 permalink: /mun-ars
 title: "Manchester Utd. vs Arsenal FC K.O 23.30 WIB 29/09/2019"
 excerpt: "Link live streaming English Premier League (EPL)"
-code: 10
+code: 6
 ---
 {{ page.excerpt }}. {{ page.title }}**
 
@@ -10,7 +10,7 @@ Copy url below:
 _salin tautan berikut:_
 
 ```html
-https://cdx.dailysport.pw/{{ page.code }}/{{ page.code }}.m3u8
+https://dailysport1.s3-accelerate.amazonaws.com{{ page.code }}/{{ page.code }}.m3u8
 ```
 
 then paste it into the input box at [this page](https://mi.knoacc.org/online-m3u8-player),
