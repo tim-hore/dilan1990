@@ -1,6 +1,6 @@
 ---
 permalink: /mun-ars
-title: "Manchester Utd. vs Arsenal FC K.O 23.30 WIB 29/09/2019"
+title: "Manchester Utd. vs Arsenal FC K.O 02:00 WIB Selasa 01/10/2019"  
 excerpt: "Link live streaming English Premier League (EPL)"
 code: 6
 ---
