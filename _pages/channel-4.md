@@ -1,8 +1,8 @@
 ---
-permalink: /juv-
-title: "Juventus vs  Bayer LeverkusenK.O 02:00 WIB"  
+permalink: /juv-bayer
+title: "Juventus vs  Bayer Leverkusen K.O 02:00 WIB"  
 excerpt: "Link live streaming Champions League Group Stage Matchday 2"
-code: https://cdn1.dailysport.pw/23/230.m3u8
+code: https://cdn1.dailysport.pw/23/23.m3u8
 ---
 {{ page.excerpt }}. {{ page.title }}**
 
