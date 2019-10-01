@@ -1,7 +1,7 @@
 ---
-permalink: /lei-new
-title: "Leicester vs Newcastle K.O 23.30 WIB 29/09/2019"
-excerpt: "Link live streaming English Premier League (EPL)"
+permalink: /rmad-brug
+title: "Real Madrid vs Club Brugge K.O 23.55 WIB"
+excerpt: "Link live streaming Campions League (UCL)"
 code: 10
 ---
 {{ page.excerpt }}. {{ page.title }}**
