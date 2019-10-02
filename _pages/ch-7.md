@@ -1,8 +1,8 @@
 ---
-permalink: /mci-dynamo
-title: " Man. City vs Dynamo Zagreb K.O 02:00 WIB"  
+permalink: /fcb-inter-en
+title: "FC Barcelona vs Inter Milan K.O 02:00 WIB"  
 excerpt: "Link live streaming Champions League Group Stage Matchday 2"
-code: https://cdn1.dailysport.pw/26/26.m3u8
+code: https://cdn1.dailysport.pw/3/3.m3u8
 ---
 {{ page.excerpt }}. {{ page.title }}**
 
