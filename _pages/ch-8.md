@@ -2,7 +2,7 @@
 permalink: /fcb-inter-en
 title: "FC Barcelona vs Inter Milan K.O 02:00 WIB"  
 excerpt: "Link live streaming Champions League Group Stage Matchday 2"
-code: https://cdn1.dailysport.pw/23/23.m3u8
+code: https://cdn1.dailysport.pw/27/27.m3u8
 ---
 **{{ page.excerpt }}. {{ page.title }}**
 
