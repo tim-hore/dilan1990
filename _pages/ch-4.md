@@ -1,6 +1,6 @@
 ---
-permalink: /juv-bayer
-title: "Juventus vs  Bayer Leverkusen K.O 02:00 WIB"  
+permalink: /lill-che
+title: "Lille vs Chelsea K.O 02:00 WIB"  
 excerpt: "Link live streaming Champions League Group Stage Matchday 2"
 code: https://cdn1.dailysport.pw/23/23.m3u8
 ---
