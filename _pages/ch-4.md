@@ -4,7 +4,7 @@ title: "Lille vs Chelsea K.O 02:00 WIB"
 excerpt: "Link live streaming Champions League Group Stage Matchday 2"
 code: https://cdn1.dailysport.pw/23/23.m3u8
 ---
-{{ page.excerpt }}. {{ page.title }}**
+**{{ page.excerpt }}. {{ page.title }}**
 
 Copy url below:
 
