@@ -2,7 +2,7 @@
 permalink: /genk-napoli
 title: "Genk vs Napoli K.O 23:55:00 WIB"  
 excerpt: "Link live streaming Champions League Group Stage Matchday 2"
-code: https://cdn1.dailysport.pw/23/23.m3u8
+code: https://cdn1.dailysport.pw/22/22.m3u8
 ---
 **{{ page.excerpt }}. {{ page.title }}**
 
