@@ -2,7 +2,7 @@
 permalink: /liv-redbull-en
 title: "Liverpool vs Redbull K.O 02:00 WIB"  
 excerpt: "Link live streaming Champions League Group Stage Matchday 2"
-code: https://cdn1.dailysport.pw/2/2.m3u8
+code: https://cdn1.dailysport.pw/27/27.m3u8
 ---
 **{{ page.excerpt }}. {{ page.title }}**
 
