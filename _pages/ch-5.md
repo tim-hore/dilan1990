@@ -1,10 +1,10 @@
 ---
-permalink: /galat-psg
-title: "Galatasaray vs PSG K.O 02:00 WIB"  
+permalink: /liv-redbull
+title: "Liverpool vs Redbull K.O 02:00 WIB"  
 excerpt: "Link live streaming Champions League Group Stage Matchday 2"
 code: https://cdn1.dailysport.pw/24/24.m3u8
 ---
-{{ page.excerpt }}. {{ page.title }}**
+**{{ page.excerpt }}. {{ page.title }}**
 
 Copy url below:
 
