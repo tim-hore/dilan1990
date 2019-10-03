@@ -1,7 +1,7 @@
 ---
-permalink: /fcb-inter
-title: "FC Barcelona vs Inter Milan K.O 02:00 WIB"  
-excerpt: "Link live streaming Champions League Group Stage Matchday 2"
+permalink: /CSKA-Espanyol
+title: "CSKA Moscow vs Espnyol K.O 02:00 WIB"  
+excerpt: "Link live streaming Liga Maljum"
 code: https://cdn1.dailysport.pw/20/20.m3u8
 ---
 **{{ page.excerpt }}. {{ page.title }}**
