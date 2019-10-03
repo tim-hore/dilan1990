@@ -2,7 +2,7 @@
 permalink: /Multi-Stream
 title: "Multiple Stream UEFA Europa League"  
 excerpt: "Link live streaming liga maljum"
-code: https://cdn1.dailysport.pw/2/2.m3u8
+code: https://cdn1.dailysport.pw/22/22.m3u8
 ---
 **{{ page.excerpt }}. {{ page.title }}**
 
