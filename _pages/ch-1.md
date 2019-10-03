@@ -6,6 +6,9 @@ code: https://cdn1.dailysport.pw/20/20.m3u8
 ---
 **{{ page.excerpt }}. {{ page.title }}**
 
+Cek kembali url di bawah sebelum kick-off, ada kemungkinan berubah. Semua streaming kualitas HD. Siapkan Kuota ± 2 Gb dan bandwith ± 5mbps untuk menonton streaming dengan _lantjar djaja_.
+{:.notice .notice--danger}
+
 Copy url below:
 
 ```html
@@ -31,6 +34,3 @@ _kemudian tempelkan di kotak isian pada [halaman ini](https://mi.knoacc.org/onli
 _saya yakin, kalian akan segera paham bagaimana caranya._
 
 kamu juga bisa memakai MX Player atau VLC Player untuk Android.
-
-Semua streaming kualitas HD. Siapkan Kuota ± 2 Gb dan bandwith ± 5mbps untuk menonton streaming dengan lantjar djaja.
-{:.notice .notice--danger}
