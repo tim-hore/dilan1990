@@ -3,6 +3,8 @@ permalink: /Alkmar-ManUtd
 title: "AZ Alkmaar vs Man. United K.O 02:00 WIB"  
 excerpt: "Link live streaming liga maljum"
 code: https://cdn1.dailysport.pw/21/21.m3u8
+redirect_from:
+- /Alkmaar-ManUtd
 ---
 **{{ page.excerpt }}. {{ page.title }}**
 
