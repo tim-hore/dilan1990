@@ -8,6 +8,9 @@ redirect_from:
 ---
 **{{ page.excerpt }}. {{ page.title }}**
 
+Cek kembali url di bawah sebelum kick-off, ada kemungkinan berubah. Semua streaming kualitas HD. Siapkan Kuota ± 2 Gb dan bandwith ± 5mbps untuk menonton streaming dengan _lantjar djaja_.
+{:.notice .notice--danger}
+
 Copy url below:
 
 ```html
