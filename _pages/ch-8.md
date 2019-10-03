@@ -1,10 +1,10 @@
 ---
-permalink: /tot-munchen
-title: "Tottenham vs Bayern Muenchen K.O 02:00 WIB"  
-excerpt: "Link live streaming Champions League Group Stage Matchday 2"
-code: https://cdn1.dailysport.pw/25/25.m3u8
+permalink: /Alkmar-ManUtd-en
+title: "AZ Alkmaar vs Man. United K.O 02:00 WIB"  
+excerpt: "Link live streaming liga maljum"
+code: https://cdn1.dailysport.pw/4/4.m3u8
 ---
-{{ page.excerpt }}. {{ page.title }}**
+**{{ page.excerpt }}. {{ page.title }}**
 
 Copy url below:
 
