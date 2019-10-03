@@ -1,6 +1,6 @@
 ---
 permalink: /CSKA-Espanyol
-title: "CSKA Moscow vs Espnyol K.O 02:00 WIB"  
+title: "CSKA Moscow vs Espnyol K.O 23:55 WIB"  
 excerpt: "Link live streaming Liga Maljum"
 code: https://cdn1.dailysport.pw/20/20.m3u8
 ---
@@ -32,3 +32,5 @@ _saya yakin, kalian akan segera paham bagaimana caranya._
 
 kamu juga bisa memakai MX Player atau VLC Player untuk Android.
 
+Semua streaming kualitas HD. Siapkan Kuota ± 2 Gb dan bandwith ± 5mbps untuk menonton streaming dengan lantjar djaja.
+{:.notice .notice--danger}
