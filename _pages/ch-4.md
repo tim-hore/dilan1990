@@ -1,10 +1,10 @@
 ---
-permalink: /Feyenord-Porto
-title: "Liverpool FC vs Leicester City K.O 21:00 WIB"  
-excerpt: "Premier League Game Week 8"
+permalink: /EPL-GW-8
+excerpt: "Brighton & Hove Albion vs Tottenham Hotspur K.O 18:30 WIB, Liverpool FC vs Leicester City K.O 21:00 WIB, West Ham United vs Crystal Palace K.O 23:30 WIB"  
+title: "Premier League Game Week 8"
 code: https://cdn1.dailysport.pw/23/23.m3u8
 ---
-**{{ page.excerpt }}: {{ page.title }}**
+**{{ page.title }}: {{ page.excerpt }}**
 
 Cek kembali url di bawah sebelum kick-off, ada kemungkinan berubah. Semua streaming kualitas HD. Siapkan Kuota ± 2 Gb dan bandwith ± 5mbps untuk menonton streaming dengan _lantjar djaja_.
 {:.notice .notice--danger}
@@ -33,5 +33,5 @@ _kemudian tempelkan di kotak isian pada [halaman ini](https://mi.knoacc.org/onli
 
 _saya yakin, kalian akan segera paham bagaimana caranya._
 
-kamu juga bisa memakai MX Player atau VLC Player untuk Android.
-
+Kamu juga bisa memakai MX Player atau VLC Player untuk Android.
+Untuk platform Linux gunakan salah satu [video player ini](https://catetan.istimiwir.host/linux/best-open-source-video-players-for-linux/)
