@@ -1,12 +1,10 @@
 ---
-permalink: /Alkmar-ManUtd
-title: "AZ Alkmaar vs Man. United K.O 02:00 WIB"  
-excerpt: "Link live streaming liga maljum"
+permalink: /RMA-Granada-en
+title: "Real Madrid vs Granada K.O 21:00 WIB"  
+excerpt: "La Liga Game Week 8"
 code: https://cdn1.dailysport.pw/21/21.m3u8
-redirect_from:
-- /Alkmaar-ManUtd
 ---
-**{{ page.excerpt }}. {{ page.title }}**
+**{{ page.excerpt }}: {{ page.title }}**
 
 Cek kembali url di bawah sebelum kick-off, ada kemungkinan berubah. Semua streaming kualitas HD. Siapkan Kuota ± 2 Gb dan bandwith ± 5mbps untuk menonton streaming dengan _lantjar djaja_.
 {:.notice .notice--danger}
