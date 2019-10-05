@@ -2,7 +2,7 @@
 permalink: /EPL-GW-8
 excerpt: "Brighton & Hove Albion vs Tottenham Hotspur K.O 18:30 WIB, Liverpool FC vs Leicester City K.O 21:00 WIB, West Ham United vs Crystal Palace K.O 23:30 WIB"  
 title: "Premier League Game Week 8"
-code: https://cdn1.dailysport.pw/27/27.m3u8
+code: https://cdn1.dailysport.pw/23/23.m3u8
 ---
 **{{ page.title }}: {{ page.excerpt }}**
 
