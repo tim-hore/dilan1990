@@ -1,10 +1,8 @@
 ---
-permalink: /Sevilla-APOEL
-title: "Sevilla FC vs APOEL K.O 02:00 WIB"  
-excerpt: "Link live streaming liga maljum"
+permalink: /ch-1
+title: " Channel 1"  
+excerpt: "La Liga GW 8"
 code: https://cdn1.dailysport.pw/20/20.m3u8
-redirect_from:
-- /Sevila-APOEL
 ---
 **{{ page.excerpt }}. {{ page.title }}**
 
