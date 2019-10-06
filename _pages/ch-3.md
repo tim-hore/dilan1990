@@ -1,7 +1,6 @@
 ---
-permalink: /Multi-Stream-2
-title: "Multiple Stream UEFA Europa League"  
-excerpt: "Link live streaming liga maljum"
+permalink: /ch-3
+title: "Channel 3"
 code: https://cdn1.dailysport.pw/22/22.m3u8
 ---
 **{{ page.excerpt }}. {{ page.title }}**
