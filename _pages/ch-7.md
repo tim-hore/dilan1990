@@ -1,5 +1,5 @@
 ---
-pernalink: /ch-7
+permalink: /ch-7
 title: "Channel 7"
 code: https://cdn1.dailysport.pw/24/24.m3u8
 ---
