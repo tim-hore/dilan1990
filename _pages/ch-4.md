@@ -1,6 +1,6 @@
 ---
 permalink: /ch-4
-title: " Channel 4 "  
+title: "Channel 4"
 excerpt: "EPL GW-8"
 code: https://cdn1.dailysport.pw/1111/1.m3u8
 ---
