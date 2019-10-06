@@ -1,8 +1,7 @@
 ---
-permalink: /Arsenal-Standard-en
-title: "Arsenal FC vs Standard K.O 02:00 WIB"  
-excerpt: "Link live streaming liga maljum"
-code: https://cdn1.dailysport.pw/2/2.m3u8
+title: " Channel 6 "  
+excerpt: "EPL GW-8"
+code: https://cdn1.dailysport.pw/1113/3.m3u8
 ---
 **{{ page.excerpt }}. {{ page.title }}**
 
