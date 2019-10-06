@@ -3,6 +3,7 @@ permalink: /ch-7
 title: "Channel 7"
 excerpt: "Fiorentina vs Udinese, Roma vs Cagliari,Torino vs Napoli, Internazionale vs Juventus"
 code: https://cdn1.dailysport.pw/24/24.m3u8
+code1: https://cdn1.dailysport.pw/1112/2.m3u8
 ---
 **{{ page.title }}**
 
@@ -28,7 +29,12 @@ _salin tautan berikut:_
 ```html
 {{ page.code }}
 ```
-
+{% if page.code1 }
+Alternatif
+```html
+{{ page.code1 }}
+```
+{% endif %}
 _kemudian tempelkan di kotak isian pada [halaman ini](https://mi.knoacc.org/online-m3u8-player),_
 
 _saya yakin, kalian akan segera paham bagaimana caranya._
