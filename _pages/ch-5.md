@@ -1,4 +1,5 @@
 ---
+pernalink: /ch-5
 title: " Channel 5 "  
 excerpt: "EPL GW-8"
 code: https://cdn1.dailysport.pw/1112/2.m3u8
