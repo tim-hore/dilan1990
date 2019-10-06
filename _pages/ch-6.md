@@ -1,6 +1,6 @@
 ---
-pernalink: /ch-6
-title: " Channel 6 "
+permalink: /ch-6
+title: "Channel 6"
 excerpt: "EPL GW-8"
 code: https://cdn1.dailysport.pw/1113/3.m3u8
 ---
