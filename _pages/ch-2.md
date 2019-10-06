@@ -1,10 +1,10 @@
 ---
 permalink: /ch-2
-title: " Channel 2 "
+title: "Channel 2"
 excerpt: "La Liga Game Week 8"
 code: https://cdn1.dailysport.pw/21/21.m3u8
 ---
-**{{ page.excerpt }}: {{ page.title }}**
+**{{ page.excerpt }} {{ page.title }}**
 
 Cek kembali url di bawah sebelum kick-off, ada kemungkinan berubah. Semua streaming kualitas HD. Siapkan Kuota ± 2 Gb dan bandwith ± 5mbps untuk menonton streaming dengan _lantjar djaja_.
 {:.notice .notice--danger}
