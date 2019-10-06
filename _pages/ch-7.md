@@ -1,6 +1,6 @@
 ---
-title: " Channel 7 "  
-excerpt: "EPL GW-8"
+pernalink: /ch-7
+title: " Channel 7 "
 code: https://cdn1.dailysport.pw/24/24.m3u8
 ---
 **{{ page.excerpt }}. {{ page.title }}**
