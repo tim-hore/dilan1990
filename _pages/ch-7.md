@@ -1,9 +1,10 @@
 ---
 permalink: /ch-7
 title: "Channel 7"
+excerpt: "Fiorentina vs Udinese, Roma vs Cagliari,Torino vs Napoli, Internazionale vs Juventus"
 code: https://cdn1.dailysport.pw/24/24.m3u8
 ---
-**{{ page.excerpt }}. {{ page.title }}**
+**{{ page.title }}**
 
 Cek kembali url di bawah sebelum kick-off, ada kemungkinan berubah. Semua streaming kualitas HD. Siapkan Kuota ± 2 Gb dan bandwith ± 5mbps untuk menonton streaming dengan _lantjar djaja_.
 {:.notice .notice--danger}
