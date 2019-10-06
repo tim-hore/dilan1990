@@ -1,6 +1,6 @@
 ---
-permalink: /RMA-Granada-en
-title: "Real Madrid vs Granada K.O 21:00 WIB"  
+permalink: /ch-2
+title: " Channel 2 "
 excerpt: "La Liga Game Week 8"
 code: https://cdn1.dailysport.pw/21/21.m3u8
 ---
