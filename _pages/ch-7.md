@@ -29,7 +29,7 @@ _salin tautan berikut:_
 ```html
 {{ page.code }}
 ```
-{% if page.code1 }
+{% if page.code1 %}
 Alternatif
 ```html
 {{ page.code1 }}
