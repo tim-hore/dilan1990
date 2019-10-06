@@ -1,8 +1,7 @@
 ---
-permalink: /RMA-Granada
-title: "Real Madrid vs Granada K.O 21:00 WIB"  
-excerpt: "La Liga Game Week 8"
-code: https://cdn1.dailysport.pw/20/20.m3u8
+title: " Channel 5 "  
+excerpt: "EPL GW-8"
+code: https://cdn1.dailysport.pw/1112/2.m3u8
 ---
 **{{ page.excerpt }}. {{ page.title }}**
 
@@ -34,3 +33,4 @@ _kemudian tempelkan di kotak isian pada [halaman ini](https://mi.knoacc.org/onli
 _saya yakin, kalian akan segera paham bagaimana caranya._
 
 kamu juga bisa memakai MX Player atau VLC Player untuk Android.
+
